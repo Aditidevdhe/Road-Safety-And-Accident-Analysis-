@@ -3,7 +3,7 @@
 
 An interactive Excel dashboard that visualizes key insights from road accident data to help identify trends, high-risk zones, and factors contributing to accidents. This project leverages **pivot tables**, **pivot charts**, and **slicers** to provide a dynamic and user-friendly interface for data exploration.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](/images/Road Accidents Dashboard.png)
 
 ---
 
